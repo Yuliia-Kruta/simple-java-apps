@@ -1,4 +1,4 @@
-day /*uka*/ here is smtg
-i have to delete that comment
-delete i neeed/*djnjjvuvhuvhuhvuhfuvhui
-jndvjnv*/ hiuehuheh //*tutat**//*hahah*/t
+Hello, /*This is comment*/ how are you?
+This is program on Java
+I need to delete the following comments/*djnjjvuvhuvhuhvuhfuvhui
+jndvjnv*/ Yes, we did it! //*tralala**//*hahah*/tnx
