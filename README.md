@@ -1,4 +1,8 @@
 <h1 align="center">Delete Comments in Text File</h1>
+<img align="center" src="./InputText.png" width="40%" height="auto"/>
+⬇️
+<br/><br/>
+<img align="center" src="./OutputText.png" width="30%" height="auto"/>
 <h2>Project description</h2>
 This simple Java app removes comments from a text file. It handles both single-line (`// ...`) and multi-line (`/* ... */`) comments, producing a clean output file without comments.
 
