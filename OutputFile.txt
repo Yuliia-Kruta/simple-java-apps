@@ -1,4 +1,5 @@
-day  here is smtg
-i have to delete that comment
-delete i neeed
- hiuehuheh 
+Hello,  how are you?
+This is program on Java
+I need to delete the following comments
+ Yes, we did it! 
+
