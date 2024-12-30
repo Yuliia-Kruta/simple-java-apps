@@ -15,9 +15,14 @@ This simple Java-based console application displays a calendar for a given year.
 
 <h2>Getting Started</h2>
 To get a local copy up and running, follow these simple steps:
-<br/>
+<br/><br/>
 
-Clone the simple-calendar branch.<br/><br/>
+Clone the simple-java-apps repository:<br/>
+git clone https://github.com/Yuliia-Kruta/simple-java-apps.git<br/><br/>
+Navigate to the project directory:<br/>
+cd simple-java-apps<br/><br/>
+Checkout the specific branch:<br/>
+git checkout simple-calendar<br/><br/>
 Compile the program using javac:<br/>
 javac SimpleCalendar.java<br/><br/>
 Run the compiled program using java:<br/>
