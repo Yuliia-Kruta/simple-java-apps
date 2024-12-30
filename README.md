@@ -19,13 +19,18 @@ This simple Java app removes comments from a text file. It handles both single-l
 
 <h2>Getting Started</h2>
 To get a local copy up and running, follow these simple steps:
-<br/>
+<br/><br/>
 
-Clone the quiz-game-branch branch.<br/><br/>
+Clone the simple-java-apps repository:<br/>
+git clone https://github.com/Yuliia-Kruta/simple-java-apps.git<br/><br/>
+Navigate to the project directory:<br/>
+cd simple-java-apps<br/><br/>
+Checkout the specific branch:<br/>
+git checkout delete-comments<br/><br/>
 Compile the program using javac:<br/>
 javac DeleteCommentsInText.java<br/><br/>
 Run the compiled program using java:<br/>
-java DeleteCommentsInText
+java DeleteCommentsInText.java
 
 <h2>License</h2>
 Distributed under the MIT License. See LICENSE for more information.
